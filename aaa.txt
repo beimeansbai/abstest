@@ -1,2 +1,2 @@
 len:29
-/home/xx/test/abstest/aaa.tx
+/home/xx/test/abstest/aaa.txt
