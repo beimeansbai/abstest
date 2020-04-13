@@ -1,10 +1,10 @@
 13
 repo path len:13
 repo path:/root/abstestfile path len:13
-file path:commit.sh has no output
+file path:aaa.txtcommit.sh has no output
 commit ID:
 base hash:
-file id:
+file id:aaa.txt
 13
 /root/abstest
 7
