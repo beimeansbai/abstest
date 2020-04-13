@@ -4,6 +4,7 @@ repo path:/root/abstest7
 file path len:7
 file path:aaa.txtcmd:/root/addmeta/commit.sh /root/abstest
 commit ID:383cbe4d54e1475c685cfbb53e6aeb46c341183
+p:5
 base hash:383cbe4d54e1475c685cfbb53e6aeb46c341183
 file id:383cbe4d54e1475c685cfbb53e6aeb46c341183aaa.txt
 13
