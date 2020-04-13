@@ -1,1 +1,9 @@
 13/root/abstest7aaa.txt
+repo path len:13
+repo path:
+file path:Ð@
+commit.sh has no output
+commit ID:
+base hash:
+file id:Ð@
+13/root/abstest7aaa.txt
