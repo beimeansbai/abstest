@@ -7,6 +7,5 @@ base hash:
 file id:
 13
 /root/abstest
-
 7
 aaa.txt
