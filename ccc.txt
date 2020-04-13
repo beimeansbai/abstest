@@ -7,6 +7,3 @@ commit ID:383cbe4d54e1475c685cfbb53e6aeb46c3411831
 p:5
 base hash:383cbe4d54e1475c685cfbb53e6aeb46c3411831abstest
 file id:383cbe4d54e1475c685cfbb53e6aeb46c3411831abstestccc.txt
-13
-/root/abstest7
-ccc.txt
