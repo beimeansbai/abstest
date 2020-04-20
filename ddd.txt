@@ -1,0 +1,11 @@
+13
+repo path len:13
+repo path:/root/abstest7
+file path len:7
+file path:ddd.txtcmd:/root/addmeta/commit.sh /root/abstest
+commit ID:383cbe4d54e1475c685cfbb53e6aeb46c3411831
+p:5
+base hash:383cbe4d54e1475c685cfbb53e6aeb46c3411831abstest
+file id:383cbe4d54e1475c685cfbb53e6aeb46c3411831abstestddd.txt
+wp:security_team and (abc or (hire_data and business_staff))
+rp:(A1 and A2) or (A5 or (A6 and A7))
